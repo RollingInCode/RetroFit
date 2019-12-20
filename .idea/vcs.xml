@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../Clamblaster" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../MemeCreator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../SQLiteSample" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../SwipeMaster" vcs="Git" />
+  </component>
+</project>
